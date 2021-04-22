@@ -9,7 +9,9 @@
 <a href="https://open.spotify.com/user/inlvvwvr5k0thhz0dhoa1zqy9">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
 <br/>
+
 I'm a passionate self-taught **Software Engineer** working at **[BigBinary](https://www.bigbinary.com)**. I started my career as a UI/UX Designer and turned into a Front End Engineer. During college, Me and my friends together started a startup named [I/O Developers](https://github.com/IODevelopers) and contributed a lot to open source community.
 
 **Languages and Tools:**  
