@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-I'm a passionate self-taught **Software Engineer** working at **[BigBinary](https://www.bigbinary.com)**. I started my career as a UI/UX Designer and turned into a Front End Engineer.
+I'm a passionate **Software Engineer** working at **[BigBinary](https://www.bigbinary.com)**. I started my career as a UI/UX Designer and turned into a Front End Engineer.
 
 #### :octocat: Languages and Tools
 
