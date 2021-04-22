@@ -14,7 +14,7 @@
 
 I'm a passionate self-taught **Software Engineer** working at **[BigBinary](https://www.bigbinary.com)**. I started my career as a UI/UX Designer and turned into a Front End Engineer. During college, Me and my friends together started a startup named [I/O Developers](https://github.com/IODevelopers) and contributed a lot to open source community.
 
-**Languages and Tools:**  
+#### :octocat: Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -25,8 +25,8 @@ I'm a passionate self-taught **Software Engineer** working at **[BigBinary](http
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-:man_technologist: My GitHub Stats
+#### :man_technologist: My GitHub Stats
 ![Contributions](https://github-readme-stats.vercel.app/api?username=philson-philip&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-:computer: Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+#### :computer: Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philson-philip&layout=compact)
