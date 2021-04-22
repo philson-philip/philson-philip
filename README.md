@@ -27,4 +27,4 @@ I'm a passionate self-taught **Software Engineer** working at **[BigBinary](http
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=philson-philip&show_icons=true&theme=dark" alt="philson-philip" />
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=philson-philip&show_icons=true&theme=dark&count_private=true&include_all_commits=true)]
