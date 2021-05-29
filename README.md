@@ -25,11 +25,3 @@ I'm a passionate **Software Engineer** working at **[BigBinary](https://www.bigb
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
-#### :man_technologist: My GitHub Stats
-
-![Contributions](https://github-readme-stats.vercel.app/api?username=philson-philip&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_title=true)
-
-#### :computer: Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philson-philip&layout=compact&hide_title=true)
