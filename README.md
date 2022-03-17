@@ -6,9 +6,6 @@
 <a href="https://www.instagram.com/_mr._phil_/" target="_blank">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/inlvvwvr5k0thhz0dhoa1zqy9">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br/>
 <br/>
