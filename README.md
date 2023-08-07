@@ -1,12 +1,5 @@
 ### Hi there 👋 I'm Philson Philip!
 
-<a href="https://www.linkedin.com/in/philson-philip/" target="_blank">
-  <img align="left" alt="Philson's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br/>
-<br/>
-
 I'm a passionate **Software Engineer** working at **[BigBinary](https://www.bigbinary.com)**.
 
 #### :octocat: Languages and Tools
